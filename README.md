@@ -37,7 +37,7 @@ I am passionate about leveraging data and technology to drive informed decisions
 
 
 <!-- Github Stats from https://github.com/anuraghazra/github-readme-stats -->
-![Willie's GitHub stats](https://github-readme-stats.vercel.app/api?username=willie-conway&show_icons=true&theme=dracula)
+![Willie's GitHub stats](https://github-readme-stats.vercel.app/api?username=willie-conway&show_icons=true&theme=merko)
 
 Feel free to connect with me or check out my repositories to see what I’m working on! 🤝
 
