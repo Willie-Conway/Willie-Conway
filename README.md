@@ -11,7 +11,7 @@
 
 ## Skills & Technologies ⚙️
 - **Programming Languages**: `Python`, `SQL`, `JavaScript`, `Java`, `C++`, `Kotlin`, `Swift`
-- **Data Tools**: `Tableau`, `Pandas`, `NumPy`, `Jupyter Notebooks`, `MySQL`, `PostgreSQL`
+- **Data Tools**: `Tableau`, `Pandas`, `NumPy`, `Scikit-Learn`, `Seaborn`, `Matplotlib`, `Statsmodelset`, `SciPy`, `Joblib`, `Jupyter Notebooks`, `MySQL`, `PostgreSQL`
 - **Web Development**: `HTML`, `CSS`, `React`, `Django`
 - **Cybersecurity**: `Network Security`, `Risk Management`, `Vulnerability Assessment`, `CompTIA Security+` (in progress)
 - **Cloud & DevOps**: `Docker`, `Cloud Essentials+`,`AWS`,`Kubernetes`
