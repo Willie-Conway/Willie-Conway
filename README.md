@@ -29,15 +29,15 @@ I'm a versatile tech professional with a strong foundation in Computer Science a
 - **Software Engineering**: `Meta Generalist Software Engineer Professional Certificate`, `Meta Full-Stack Software Engineer Professional Certificate`, `Meta Data Analyst Professional Certificate`
 
 
-<!-- Github Stats from https://github.com/anuraghazra/github-readme-stats -->
-![Willie's GitHub stats](https://github-readme-stats.vercel.app/api?username=willie-conway&show_icons=true&theme=highcontrast)
-
 ## Projects 🛠️
 I’ve worked on various projects that showcase my skills in data analytics, visualization, and software development. My portfolio includes applications that analyze data trends, enhance user experience, and improve security protocols.
 
 ## Goals 🎯
 I am passionate about leveraging data and technology to drive informed decisions and create user-centered solutions. I aim to contribute to innovative projects that make a difference while continuing to grow in my technical expertise.
 
+
+<!-- Github Stats from https://github.com/anuraghazra/github-readme-stats -->
+![Willie's GitHub stats](https://github-readme-stats.vercel.app/api?username=willie-conway&show_icons=true&theme=dracula)
 
 Feel free to connect with me or check out my repositories to see what I’m working on! 🤝
 
