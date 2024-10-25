@@ -14,7 +14,7 @@
 - **Data Tools**: `Tableau`, `Pandas`, `NumPy`, `Jupyter Notebooks`, `MySQL`, `PostgreSQL`
 - **Web Development**: `HTML`, `CSS`, `React`, `Django`
 - **Cybersecurity**: `Network Security`, `Risk Management`, `Vulnerability Assessment`, `CompTIA Security+` (in progress)
-- **Cloud & DevOps**: `Docker`, `Cloud Essentials+`,`AWS`
+- **Cloud & DevOps**: `Docker`, `Cloud Essentials+`,`AWS`,`Kubernetes`
 - **UX Design**: `User Research`, `Wireframing`, `Prototyping`
 - **Software Development**: `Agile Methodologies`, `Version Control (Git)`, `Project+` (in progress)
 - **Business Intelligence**: `Google Business Intelligence Professional Certificate`
