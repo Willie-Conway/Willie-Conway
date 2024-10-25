@@ -34,6 +34,9 @@ I’ve worked on various projects that showcase my skills in data analytics, vis
 ## Goals 🎯
 I am passionate about leveraging data and technology to drive informed decisions and create user-centered solutions. I aim to contribute to innovative projects that make a difference while continuing to grow in my technical expertise.
 
+<!-- Github Stats from https://github.com/anuraghazra/github-readme-stats -->
+![Willie's GitHub stats](https://github-readme-stats.vercel.app/api?username=willie-conway&show_icons=true&theme=radical)
+
 Feel free to connect with me or check out my repositories to see what I’m working on! 🤝
 
 <!--
