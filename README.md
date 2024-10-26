@@ -10,12 +10,12 @@
   - CompTIA Certifications: `Security+`, `Project+`, `ITF+`, `Server+`, `Cloud Essentials+`
 
 ## Skills & Technologies ⚙️
-- **Programming Languages**: `Python`, `SQL`, `JavaScript`, `Java`, `C++`, `Kotlin`, `Swift`
+- **Programming Languages**: `Python`, `SQL`, `JavaScript`, `Java`, `C++`, `Kotlin`, `Swift`, `TypeScript`
 - **Data Tools**: `Tableau`, `Pandas`, `NumPy`, `Scikit-Learn`, `Seaborn`, `Matplotlib`, `Statsmodelset`, `SciPy`, `Joblib`, `Jupyter Notebooks`, `MySQL`, `PostgreSQL`
 - **Web Development**: `HTML`, `CSS`, `React`, `Django`
-- **Cybersecurity**: `Network Security`, `Risk Management`, `Vulnerability Assessment`, `CompTIA Security+` (in progress)
+- **Cybersecurity**: `Network Security`, `Risk Management`, `Vulnerability Assessment`, `Google Cybersecurity Professional Certificate`, `CompTIA Security+` (in progress)
 - **Cloud & DevOps**: `Docker`, `Cloud Essentials+`,`AWS`,`Kubernetes`
-- **UX Design**: `User Research`, `Wireframing`, `Prototyping`
+- **UX Design**: `Google UX Design Professional Certificate`,`User Research`, `Wireframing`, `Prototyping`
 - **Software Development**: `Agile Methodologies`, `Version Control (Git)`, `Project+` (in progress)
 - **Business Intelligence**: `Google Business Intelligence Professional Certificate`
 - **Data Analytics**: `Google Data Analytics Professional Certificate`, `Google Advanced Data Analytics Professional Certificate`
@@ -24,7 +24,7 @@
 - **Project Management**: `Google Project Management Professional Certificate`
 - **Digital Marketing**: `Google Digital Marketing and E-commerce Professional Certificate`
 - **Financial Analysis**: `Gies Financial Analysis Professional Certificate`
-- **Software Engineering**: `Meta Generalist Software Engineer Professional Certificate`, `Meta Full-Stack Software Engineer Professional Certificate`, `Meta Data Analyst Professional Certificate`
+- **Software Engineering**: `Meta Generalist Software Engineer Professional Certificate`, `Meta Full-Stack Software Engineer Professional Certificate`, `Meta Data Analyst Professional Certificate`, `Meta Front-End Developer Professional Certificate`, `Meta Back-End Developer Proffesional Certificate`, `Meta Database Engineer Professional Certificate`
 
 ## Projects 🛠️
 I’ve worked on various projects that showcase my skills in data analytics, visualization, and software development. My portfolio includes applications that analyze data trends, enhance user experience, and improve security protocols.
