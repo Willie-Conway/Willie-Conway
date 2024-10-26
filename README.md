@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Willie Conway.<br><br>I'm a versatile tech professional with a strong foundation in Computer Science and Information Science 📚, complemented by a focus on Cybersecurity 🔐, UX Design 🎨, and Software Engineering 💻. My journey has led me through Data Science 📊 and Data Analytics 📈, where I've developed a robust skill set for tackling complex problems and creating impactful solutions. I also have experience as a U.S. Marine AAV Crew Chief SGT , which has instilled a strong sense of discipline and teamwork in my approach to projects.
+👋 Hi there! I'm Willie Conway.<br><br>I'm a versatile tech professional with a strong foundation in Computer Science and Information Science 📚, complemented by a focus on Cybersecurity 🔐, UX Design 🎨, and Software Engineering 💻. My journey has led me through Data Science 📊 and Data Analytics 📈, where I've developed a robust skill set for tackling complex problems and creating impactful solutions. I also have experience as a U.S. 🪖Marine AAV Crew Chief SGT , which has instilled a strong sense of discipline and teamwork in my approach to projects.
 
 ## Education 🎓
 - **B.S. in Computer Science and Information Science**
