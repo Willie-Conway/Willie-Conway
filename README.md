@@ -14,7 +14,7 @@
 - **Data Tools**: `Tableau`, `Pandas`, `NumPy`, `Scikit-Learn`, `Seaborn`, `Matplotlib`, `Statsmodelset`, `SciPy`, `Joblib`, `Jupyter Notebooks`, `MySQL`, `PostgreSQL`
 - **Web Development**: `HTML`, `CSS`, `React`, `Django`
 - **Cybersecurity**: `Network Security`, `Risk Management`, `Vulnerability Assessment`, `Google Cybersecurity Professional Certificate`, `CompTIA Security+` (in progress)
-- **Cloud & DevOps**: `Docker`, `Cloud Essentials+`,`AWS`,`Kubernetes`
+- **Cloud & DevOps**: `Docker`,`Cloud Essentials+`,`AWS`,`Kubernetes`,`GCP`
 - **UX Design**: `Google UX Design Professional Certificate`,`User Research`, `Wireframing`, `Prototyping`
 - **Software Development**: `Agile Methodologies`, `Version Control (Git)`, `Project+` (in progress)
 - **Business Intelligence**: `Google Business Intelligence Professional Certificate`
