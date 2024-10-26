@@ -24,7 +24,7 @@
 - **Project Management**: `Google Project Management Professional Certificate`
 - **Digital Marketing**: `Google Digital Marketing and E-commerce Professional Certificate`
 - **Financial Analysis**: `Gies Financial Analysis Professional Certificate`
-- **Software Engineering**: `Meta Generalist Software Engineer Professional Certificate`, `Meta Full-Stack Software Engineer Professional Certificate`, `Meta Data Analyst Professional Certificate`, `Meta Front-End Developer Professional Certificate`, `Meta Back-End Developer Proffesional Certificate`, `Meta Database Engineer Professional Certificate`
+- **Software Engineering**: `Meta Generalist Software Engineer Professional Certificate`, `Meta Full-Stack Software Engineer Professional Certificate`, `Meta Data Analyst Professional Certificate`, `Meta Front-End Developer Professional Certificate`, `Meta Back-End Developer Professional Certificate`, `Meta Database Engineer Professional Certificate`
 
 ## Projects 🛠️
 I’ve worked on various projects that showcase my skills in data analytics, visualization, and software development. My portfolio includes applications that analyze data trends, enhance user experience, and improve security protocols.
