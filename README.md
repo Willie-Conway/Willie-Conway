@@ -37,7 +37,7 @@ Feel free to connect with me or check out my repositories to see what I’m work
 
 <!--https://github.com/inttter/md-badges-->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/willieconway/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/34010193/willie-conway) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/gamekingpin777) 	[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/user/76720c1c898d5be5b38e1144e03c8c7f)<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willieconway/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/34010193/willie-conway) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/gamekingpin777) 	[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/user/76720c1c898d5be5b38e1144e03c8c7f)<br><br>
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 # 💻 Tech Stack:
