@@ -21,7 +21,7 @@
 - **Data Analytics**: `Google Data Analytics Professional Certificate`, `Google Advanced Data Analytics Professional Certificate`
 - **IT Support**: `Google IT Support Professional Certificate`
 - **Automation**: `Google Python and IT Automation Professional Certificate`
-- **Leadership: `Gies Professional Success Skills Professional Certificate`
+- **Leadership**: `Gies Professional Success Skills Professional Certificate`
 - **Project Management**: `Google Project Management Professional Certificate`
 - **Digital Marketing**: `Google Digital Marketing and E-commerce Professional Certificate`
 - **Financial Analysis**: `Gies Financial Analysis Professional Certificate`
