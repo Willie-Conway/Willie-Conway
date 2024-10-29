@@ -10,7 +10,7 @@
   - CompTIA Certifications: `Security+`, `Project+`, `ITF+`, `Server+`, `Cloud Essentials+`
 
 ## Skills & Technologies ⚙️
-- **Programming Languages**: `Python`, `SQL`, `JavaScript`, `Java`, `C++`, `PHP`, `Kotlin`, `Swift`, `TypeScript`
+- **Programming Languages**: `Python`, `SQL`, `JavaScript`, `Java`, `C++`, `PHP`, `Kotlin`, `Swift`, `TypeScript`, `R`
 - **Data Tools**: `Tableau`, `Pandas`, `NumPy`, `Scikit-Learn`, `Seaborn`, `Matplotlib`, `Statsmodelset`, `SciPy`, `Joblib`, `Jupyter Notebooks`, `MySQL`, `PostgreSQL`
 - **Web Development**: `HTML`, `CSS`, `React`, `Django`
 - **Cybersecurity**: `Network Security`, `Risk Management`, `Vulnerability Assessment`, `Google Cybersecurity Professional Certificate`, `CompTIA Security+` (in progress)
