@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Willie Conway.<br><br>I'm a versatile tech professional with a strong foundation in Computer Science and Information Science 📚, complemented by a focus on Cybersecurity 🔐, UX Design 🎨, and Software Engineering 💻. My journey has led me through Data Science 📊 and Data Analytics 📈, where I've developed a robust skill set for tackling complex problems and creating impactful solutions. I also have experience as a U.S. Marine AAV Crew Chief SGT , which has instilled a strong sense of discipline and teamwork in my approach to projects.
+👋🏿 Hi there! I'm Willie Conway.<br><br>I'm a versatile tech professional with a strong foundation in Computer Science and Information Science 📚, complemented by a focus on Cybersecurity 🔐, UX Design 🎨, and Software Engineering 💻. My journey has led me through Data Science 📊 and Data Analytics 📈, where I've developed a robust skill set for tackling complex problems and creating impactful solutions. I also have experience as a U.S. Marine AAV Crew Chief SGT , which has instilled a strong sense of discipline and teamwork in my approach to projects.
 
 ## Education 🎓
 - **B.S. in Computer Science and Information Science**
@@ -33,7 +33,7 @@ I’ve worked on various projects that showcase my skills in data analytics, vis
 ## Goals 🎯
 I am passionate about leveraging data and technology to drive informed decisions and create user-centered solutions. I aim to contribute to innovative projects that make a difference while continuing to grow in my technical expertise.
 
-Feel free to connect with me or check out my repositories to see what I’m working on! 🤝
+Feel free to connect with me or check out my repositories to see what I’m working on! 🫱🏿‍🫲🏿
 
 <!--https://github.com/inttter/md-badges-->
 ## 🌐 Socials:
