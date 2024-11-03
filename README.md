@@ -15,7 +15,7 @@
 - **Web Development**: `HTML`, `CSS`, `React`, `Django`
 - **Cybersecurity**: `Network Security`, `Risk Management`, `Vulnerability Assessment`, `Google Cybersecurity Professional Certificate`, `CompTIA Security+` (in progress)
 - **Cloud & DevOps**: `Docker`,`Cloud Essentials+`,`AWS`,`Kubernetes`,`GCP`
-- **UX Design**: `Google UX Design Professional Certificate`,`User Research`, `Wireframing`, `Prototyping`
+- **UX Design**: `Google UX Design Professional Certificate`,`Figma`
 - **Software Development**: `Agile Methodologies`, `Version Control (Git)`, `Project+` (in progress)
 - **Business Intelligence**: `Google Business Intelligence Professional Certificate`
 - **Data Analytics**: `Google Data Analytics Professional Certificate`, `Google Advanced Data Analytics Professional Certificate`
