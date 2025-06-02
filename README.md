@@ -1,6 +1,6 @@
 ![Home Banner](https://github.com/Willie-Conway/Willie-Conway/blob/c2c5beafe39c05b0ea23771f015392c324b2e34a/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png)
 
-
+## WHO AM I ? 
 
 👋🏿 Hi there! I'm Willie Conway.<br><br>I'm a versatile tech professional with a strong foundation in Computer Science and Information Science 📚, complemented by a focus on Cybersecurity 🔐, UX Design 🎨, and Software Engineering 💻. My journey has led me through Data Science 📊 and Data Analytics 📈, where I've developed a robust skill set for tackling complex problems and creating impactful solutions. I also have experience as a U.S. Marine AAV Crew Chief SGT , which has instilled a strong sense of discipline and teamwork in my approach to projects.
 
