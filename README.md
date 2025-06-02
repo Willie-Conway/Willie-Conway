@@ -2,7 +2,9 @@
 
 ## WHO AM I ? 
 
-👋🏿 Hi there! I'm Willie Conway.<br><br>I'm a versatile tech professional with a strong foundation in Computer Science and Information Science 📚, complemented by a focus on Cybersecurity 🔐, UX Design 🎨, and Software Engineering 💻. My journey has led me through Data Science 📊 and Data Analytics 📈, where I've developed a robust skill set for tackling complex problems and creating impactful solutions. I also have experience as a U.S. Marine AAV Crew Chief SGT , which has instilled a strong sense of discipline and teamwork in my approach to projects.
+I'm Willie Conway, a passionate Data Analyst and Software Engineer with over 5 years of experience in transforming raw data into meaningful insights and developing scalable software solutions. My journey in tech began with a curiosity about how data can tell stories and how software can solve real-world problems.
+
+I specialize in Python, SQL, and JavaScript, with expertise in data visualization, machine learning, and full-stack development. My approach combines analytical thinking with creative problem-solving to deliver impactful results.
 
 ## Education 🎓
 - **B.S. in Computer Science and Information Science**
