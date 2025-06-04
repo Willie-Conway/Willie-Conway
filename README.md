@@ -1,6 +1,6 @@
 ![Home Banner](https://github.com/Willie-Conway/Willie-Conway/blob/c2c5beafe39c05b0ea23771f015392c324b2e34a/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png)
 
-## WHO AM I ? 
+## WHO AM I ❔
 
 I'm Willie Conway, a passionate Data Analyst and Software Engineer with over 5 years of experience in transforming raw data into meaningful insights and developing scalable software solutions. My journey in tech began with a curiosity about how data can tell stories and how software can solve real-world problems.
 
