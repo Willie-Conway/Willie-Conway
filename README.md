@@ -11,7 +11,6 @@ I specialize in Python, SQL, and JavaScript, with expertise in data visualizatio
 - **B.S. in Criminal Justice Administration**
 - **Currently pursuing**:
   - M.S. in Computer Science and Data Science
-  - M.S. in Cybersecurity and Information Assurance
   - CompTIA Certifications: `Security+`, `Project+`, `ITF+`, `Server+`, `Cloud Essentials+`
 
 ## Skills & Technologies ⚙️
