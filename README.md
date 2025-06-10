@@ -1,4 +1,4 @@
-![Home Banner](https://github.com/Willie-Conway/Willie-Conway/blob/93163cac969c26c0294494da81628b715bf02bb8/knowledge.png)
+![Home Banner](https://github.com/Willie-Conway/Willie-Conway/blob/0c2402ff3de63b66c2eea2752c4f26df9b5f5de0/colors.jpg)
 
 ## WHO AM I ❔
 
