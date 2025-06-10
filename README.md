@@ -1,4 +1,4 @@
-![Home Banner](https://github.com/Willie-Conway/Willie-Conway/blob/c2c5beafe39c05b0ea23771f015392c324b2e34a/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner.png)
+![Home Banner](https://github.com/Willie-Conway/Willie-Conway/blob/93163cac969c26c0294494da81628b715bf02bb8/knowledge.png)
 
 ## WHO AM I ❔
 
