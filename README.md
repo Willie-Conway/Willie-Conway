@@ -80,7 +80,7 @@ I'm always open to collaborating on exciting projects, discussing tech trends, o
 
 ## 📈 GitHub Stats  
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Willie-Conway?cardType=level&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)]
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Willie-Conway?cardType=level&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ---
 
 ### 💬 Random Dev Quote  
