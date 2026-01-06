@@ -15,7 +15,7 @@ I thrive at the intersection of **analytics** and **engineering**, leveraging to
 - **B.S. in Computer Science and Information Science** 🖥️  
 - **B.S. in Criminal Justice Administration** ⚖️  
 - **Currently Pursuing**:  
-  - **M.S. in Computer Science and Data Science** 📈  
+  - **M.S. of Computer Science in Data Science** 📈  
   - **CompTIA Certifications**: ![Security+](https://img.shields.io/badge/Security+-C8202F?logo=CompTIA&logoColor=white) ![Project+](https://img.shields.io/badge/Project+-C8202F?logo=CompTIA&logoColor=white) ![ITF+](https://img.shields.io/badge/ITF+-C8202F?logo=CompTIA&logoColor=white) ![Server+](https://img.shields.io/badge/Server+-C8202F?logo=CompTIA&logoColor=white) ![Cloud Essentials+](https://img.shields.io/badge/Cloud%20Essentials+-C8202F?logo=CompTIA&logoColor=white)  
 
 ---
