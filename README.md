@@ -80,12 +80,7 @@ I'm always open to collaborating on exciting projects, discussing tech trends, o
 
 ## 📈 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=Willie-Conway&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Willie-Conway&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Willie-Conway&theme=dark&hide_border=false&layout=compact)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Willie-Conway?cardType=level&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)]
 ---
 
 ### 💬 Random Dev Quote  
@@ -96,3 +91,4 @@ I'm always open to collaborating on exciting projects, discussing tech trends, o
 [![](https://visitcount.itsvg.in/api?id=Willie-Conway&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *Proudly crafted with passion and precision.* 🚀
+
