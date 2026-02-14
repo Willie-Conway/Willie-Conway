@@ -98,6 +98,7 @@ I'm always open to collaborating on exciting projects, discussing tech trends, o
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26339589/willie-conway)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/user/76720c1c898d5be5b38e1144e03c8c7f)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/willieconway)
+[![Tableau Public](https://img.shields.io/badge/-Tableau%20Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/willie.conway2396/vizzes)
 
 ---
 
