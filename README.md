@@ -38,6 +38,7 @@ I thrive at the intersection of **analytics** and **engineering**, leveraging to
 
 ### 🚀 **Big Data & Processing**  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?logo=apachehive&logoColor=black)
 
 ### 📈 **BI & Visualization Tools**  
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?logo=powerbi&logoColor=black) ![IBM Cognos](https://custom-icon-badges.demolab.com/badge/IBM%20Cognos-054ADA.svg?logo=ibm&logoColor=white) ![Google Looker](https://custom-icon-badges.demolab.com/badge/Google%20Looker-4285F4.svg?logo=google&logoColor=white) ![Google Data Studio](https://custom-icon-badges.demolab.com/badge/Google%20Data%20Studio-4285F4.svg?logo=google&logoColor=white)
