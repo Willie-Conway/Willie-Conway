@@ -8,7 +8,7 @@
 ## 👨🏿‍💻 Who Am I❔  
 I'm **Willie Conway**, a **Data Analyst** 📊 and **Software Engineer** 💻 with over **5 years** of experience transforming raw data into actionable insights and building scalable software solutions. My passion lies in **storytelling through data** and creating technology that solves real-world problems.  
 
-I thrive at the intersection of **analytics** and **engineering**, leveraging tools like **Python, SQL, and JavaScript** to build data-driven applications and compelling visualizations. I believe in merging **analytical rigor** with **creative problem-solving** to deliver impactful results.  
+I thrive at the intersection of **analytics** , **cybersecurity** and **engineering**, leveraging tools like **Python, SQL, and JavaScript** to build data-driven applications and compelling visualizations. I believe in merging **analytical rigor** with **creative problem-solving** to deliver impactful results.  
 
 
 
