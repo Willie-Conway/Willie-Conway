@@ -1,6 +1,7 @@
  # Welcome to My GitHub! 👋🏿  
-
-![Home Banner](https://raw.githubusercontent.com/Willie-Conway/Willie-Conway/refs/heads/main/Banner%20(2).png)
+ 
+### ☁️ **Word Cloud**
+![Home Banner](https://raw.githubusercontent.com/Willie-Conway/Willie-Conway/refs/heads/main/full_skills_wordcloud.png)
 
 
 
@@ -67,8 +68,7 @@ I thrive at the intersection of **analytics** and **engineering**, leveraging to
 ### 👨🏿‍💻 **Meta Certifications**  
 ![Meta Software Engineer](https://custom-icon-badges.demolab.com/badge/Meta%20Software%20Engineer-0668E1.svg?logo=meta&logoColor=white) ![Meta Full-Stack](https://custom-icon-badges.demolab.com/badge/Meta%20Full--Stack-0668E1.svg?logo=meta&logoColor=white) ![Meta Data Analyst](https://custom-icon-badges.demolab.com/badge/Meta%20Data%20Analyst-0668E1.svg?logo=meta&logoColor=white) ![Meta Front-End](https://custom-icon-badges.demolab.com/badge/Meta%20Front--End-0668E1.svg?logo=meta&logoColor=white) ![Meta Back-End](https://custom-icon-badges.demolab.com/badge/Meta%20Back--End-0668E1.svg?logo=meta&logoColor=white) ![Meta Database Engineer](https://custom-icon-badges.demolab.com/badge/Meta%20Database%20Engineer-0668E1.svg?logo=meta&logoColor=white)  
 
-### ☁️ **Word Cloud**
-![Skills Cloud](https://github.com/Willie-Conway/Willie-Conway/blob/c3be8db58716cd2a0a9af8c92154a1782309b56f/full_skills_wordcloud.png)
+
 
 
 
