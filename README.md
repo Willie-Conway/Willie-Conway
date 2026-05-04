@@ -7,10 +7,6 @@
 
 ## 👨🏿‍💻 Who Am I❔
 
-<!-- Or with custom size -->
-<img src="https://raw.githubusercontent.com/Willie-Conway/Willie-Conway/refs/heads/main/Icon.png" width="200" height="200" alt="icon">
-
-<br>
 
 I'm **Willie Conway**, a **Data Analyst** 📊 and **Software Engineer** 💻 with over **5 years** of experience transforming raw data into actionable insights and building scalable software solutions. My passion lies in **storytelling through data** and creating technology that solves real-world problems.  
 
